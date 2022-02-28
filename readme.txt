@@ -8,6 +8,7 @@ after login you redirect to home page
 homepage-> menu also done
 
 fetch data from json a dn displayed on screen
-also wirtten cart functionallity butnot completed 
+also wirtten ca .
+rt functionallity butnot completed 
 due to some errors whilw routing
 also made the checkout page 
